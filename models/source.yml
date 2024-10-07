@@ -18,5 +18,7 @@ sources:
       - name: suppliers
       - name: territories
       - name: us_estates
+      - name: pedidos
+      - name: cadastro
       
     

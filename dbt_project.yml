@@ -45,3 +45,7 @@ models:
     fato:
       +materialized: table  
       +dataset: facts
+snapshots:
+  dbt_google_northwind:
+    +schema: snapshots
+    
